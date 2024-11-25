@@ -24,14 +24,16 @@ Pre-processing of EEG data:
 Statistical analyses of VVIQ results: 
 - Stats.R
 
-Time Frequency Analysis - Morlet Wavelet Convolution for feature extraction (not provided) 
-Nonparametric Cluster-based Permutation Analysis (not provided) 
+- Time Frequency Analysis - Morlet Wavelet Convolution for feature extraction (not provided)
+  
+- Nonparametric Cluster-based Permutation Analysis (not provided) 
 
 1D-CNN model for Classification for EEG data: 
-Original model - model.py 
-CNN model - CNN.py 
-Visual Imagery model - methodvi.py and Vi_train.py
-Imagined Speech model - modelis.py and IS_train.py
+- Original model - model.py 
+- CNN model - CNN.py 
+- Visual Imagery model - methodvi.py and Vi_train.py
+- Imagined Speech model - modelis.py and IS_train.py
+
 
 You can find my thesis here: 
 
